@@ -4,6 +4,8 @@
     My username online is kooper (or dskooper/kooperds) and I am a 19 year old autistic student studying Computer Science.
 </div> <br>
 
+<hr>
+
 ### Some more information about me
 - I am particularly fond of old software and hardware, in particular anything between 1990 and 2010 (considering I'm on the spectrum this is not surprising)
 - I moderate [<img width=28 src="https://static.ugnet.gay/svc/ct/logo/favicon.ico" />**CrossTalk**](https://crosstalk.im), a third-party service dedicated to bringing classic instant messaging services back to life!
