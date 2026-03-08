@@ -1,7 +1,7 @@
 # Hallo! 
 <div style="text-align: center">
-    <img align=left width=96 src="https://github.com/dskooper.png" /> <br>
-    <p>My username online is kooper (or dskooper/kooperds since sometimes the original name is taken) and I am a 19 year old autistic student studying Computer Science.</p>
+    <img align=left width=96 src="https://github.com/dskooper.png" /> 
+    My username online is kooper (or dskooper/kooperds) and I am a 19 year old autistic student studying Computer Science.
 </div> <br>
 
 ### Some more information about me
